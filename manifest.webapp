@@ -1,0 +1,19 @@
+{
+  "name": "Fitness Advisor",
+  "version": "1.0",
+  "description": "Checks BMI. Based upon your BMI gives you clinical Advices",
+  "launch_path": "/index.html",
+  
+  "developer": {
+    "name": "Qaidjohar and Kailas Patil, #firefoxstudents",
+    "url": "https://wiki.mozilla.org/VIIT_Firefox_Club"
+  },
+  
+  "icons": {
+		"60": "/styles/icons/icon_60.png",
+		"90": "/styles/icons/icon_90.png",
+		"128": "/styles/icons/icon_128.png"
+	} 
+}
+
+ 
